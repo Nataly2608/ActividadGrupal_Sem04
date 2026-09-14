@@ -1,6 +1,7 @@
 # Actividad Grupal Sem04 
 ## Integrantes
 - Yenifer Nataly Asencios Asencios
+- Julio César Medina Ninapaytán
 - Casas Purizaca Stefano Emanuel
 - Marvick Joseph Pando Tirado
 - Adrian Cordova Mamani
